@@ -6,3 +6,4 @@ These are my study notes.
 2. Naïve_Bayes_notes: Naive Bayes + generative model vs discriminative model + tf-idf
 3. MaxEnt_study_notes: Maximum Entropy Model
 4. Regression_study_notes: linear regression + logistic regression + (L1, L2)regularization
+5. AggregationModel_study_notes1: bagging + boosting + CART

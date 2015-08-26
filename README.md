@@ -7,3 +7,4 @@ These are my study notes.
 3. MaxEnt_study_notes: Maximum Entropy Model
 4. Regression_study_notes: linear regression + logistic regression + (L1, L2)regularization
 5. AggregationModel_study_notes1: bagging + boosting + CART
+6. AggregationModel_study_notes2: Random Forest + Gradient boosting decision tree
